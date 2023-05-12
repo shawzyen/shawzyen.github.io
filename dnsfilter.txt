@@ -2,3 +2,6 @@
 ||chiphell.com^
 ||zhibo8.cc^
 ||hupu.com^
+
+@@||acs.m.taobao.com^$important
+@@||amdc.m.taobao.com^$important
