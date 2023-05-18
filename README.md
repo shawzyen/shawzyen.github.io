@@ -1,10 +1,10 @@
 Git Commands
 ============
+
+https://shawzyen.github.io/dnsfilter.txt
 ___
 
 _A list of my commonly used Git commands_
-
-*If you are interested in my Git aliases, have a look at my `.bash_profile`, found here: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
 
 --
 
@@ -24,6 +24,7 @@ _A list of my commonly used Git commands_
 | `git add -A` | Add all new and changed files to the staging area |
 | `git commit -m "[commit message]"` | Commit changes |
 | `git rm -r [file-name.txt]` | Remove a file (or folder) |
+| `git mv [<options>] <source>… <destination>` | Move or rename a file, a directory, or a symlink |
 
 ### Branching & Merging
 
