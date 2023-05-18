@@ -5,3 +5,4 @@
 
 @@||acs.m.taobao.com^$important
 @@||amdc.m.taobao.com^$important
+@@||srtb.msn.com^$important
