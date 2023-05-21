@@ -3,6 +3,7 @@
 ||zhibo8.cc^
 ||hupu.com^
 ||smzdm.com^
+||tieba.baidu.com^
 
 @@||acs.m.taobao.com^$important
 @@||amdc.m.taobao.com^$important
