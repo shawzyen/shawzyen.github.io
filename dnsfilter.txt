@@ -3,6 +3,17 @@
 ||zhibo8.cc^
 ||hupu.com^
 
+#----bbc news app ad block-----------
+||dt.adsafeprotected.com^
+||mobile.adsafeprotected.com^
+||securepubads46.g.doubleclick.net^
+||mtalk.google.com^
+||pubads46.g.doubleclick.net^
+||bbc.gscontxt.net^
+||pagead2.googlesyndication.com^
+||data.dianomi.com^
+#-------------------------------------
+
 @@||acs.m.taobao.com^$important
 @@||amdc.m.taobao.com^$important
 @@||srtb.msn.com^$important
