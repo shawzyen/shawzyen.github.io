@@ -58,6 +58,8 @@ _A list of my commonly used Git commands_
 | `git pull origin [branch name]` | Pull changes from remote repository |
 | `git remote add origin ssh://git@github.com/[username]/[repository-name].git` | Add a remote repository |
 | `git remote set-url origin ssh://git@github.com/[username]/[repository-name].git` | Set a repository's origin branch to SSH |
+| `git remote rename [old name] [new name]` | rename an existing git remote  |
+| `git remote -v` | list local git remote  |
 
 ### Inspection & Comparison
 
