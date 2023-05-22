@@ -2,6 +2,8 @@
 ||chiphell.com^
 ||zhibo8.cc^
 ||hupu.com^
+||smzdm.com^
+||tieba.baidu.com^
 
 #----bbc news app ad block-----------
 ||dt.adsafeprotected.com^
