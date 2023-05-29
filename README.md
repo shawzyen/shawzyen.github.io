@@ -44,7 +44,9 @@ _A list of my commonly used Git commands_
 | `git merge [source branch] [target branch]` | Merge a branch into a target branch |
 | `git stash` | Stash changes in a dirty working directory |
 | `git stash clear` | Remove all stashed entries |
-| `git push origin --delete [branch name]` | Delete a remote branch |
+| `git fetch [remote name]` | Download objects and refs from another repository  |
+| `git fetch [remote name] --prune` | Before fetching, remove any remote-tracking references that no longer exist on the remote  |
+
 
 ### Sharing & Updating Projects
 
@@ -60,8 +62,7 @@ _A list of my commonly used Git commands_
 | `git remote set-url origin ssh://git@github.com/[username]/[repository-name].git` | Set a repository's origin branch to SSH |
 | `git remote rename [old name] [new name]` | Rename an existing git remote  |
 | `git remote -v` | List local git remote  |
-| `git fetch [remote name]` | Download objects and refs from another repository  |
-| `git fetch [remote name] --prune` | Before fetching, remove any remote-tracking references that no longer exist on the remote  |
+
 
 ### Inspection & Comparison
 
