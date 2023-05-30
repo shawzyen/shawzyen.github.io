@@ -4,6 +4,7 @@
 ||hupu.com^
 ||smzdm.com^
 ||tieba.baidu.com^
+||biadu.com^
 
 #----bbc news app ad block-----------
 ||dt.adsafeprotected.com^
