@@ -1,0 +1,1 @@
+damage = baseAttack * (1 + attackBuff + summon + multiple + group) * (1 + gem) * (1 + cr)
