@@ -1,14 +1,14 @@
-#---  ||178.com^
-#---  ||nga.cn^
-#---  ||ngacn.cc^
-#---  ||ngabbs.com^
-#---  ||chiphell.com^
-#---  ||zhibo8.cc^
-#---  ||zhibo8.com^
-#---  ||hupu.com^
-#---  ||smzdm.com^
-#---  ||tieba.baidu.com^
-#---  ||biadu.com^
+#---||178.com^
+#---||nga.cn^
+#---||ngacn.cc^
+#---||ngabbs.com^
+#---||chiphell.com^
+#---||zhibo8.cc^
+#---||zhibo8.com^
+#---||hupu.com^
+#---||smzdm.com^
+#---||tieba.baidu.com^
+#---||biadu.com^
 
 #----bbc news app ad block-----------
 ||dt.adsafeprotected.com^
