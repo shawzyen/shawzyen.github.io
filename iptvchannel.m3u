@@ -21,10 +21,8 @@ http://192.168.1.1:4022/udp/233.50.201.196:5140
 http://192.168.1.1:4022/udp/233.50.200.107:5140
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4HD
 http://192.168.1.1:4022/udp/233.50.200.101:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-5HD
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 http://192.168.1.1:4022/udp/233.50.201.197:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-5HD
-http://192.168.1.1:4022/udp/233.50.200.108:5140
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+HD
 http://192.168.1.1:4022/udp/233.50.201.220:5140
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6HD
@@ -77,6 +75,12 @@ http://192.168.1.1:4022/udp/233.50.200.112:5140
 http://192.168.1.1:4022/udp/233.50.201.63:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17HD
 http://192.168.1.1:4022/udp/233.50.200.113:5140
+#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="数字",五星体育
+https://cntv.sbs/tv?auth=2310201855&id=wxty
+#EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字",劲爆体育
+https://cntv.sbs/tv?auth=2310201855&id=jbty
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国际",CGTN
+https://cntv.sbs/tv?auth=2310201855&id=cgtn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",凤凰卫视1
 http://192.168.1.1:4022/udp/233.50.200.191:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",凤凰卫视2
