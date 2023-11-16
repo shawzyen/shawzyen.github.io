@@ -167,7 +167,7 @@ http://192.168.1.1:4022/udp/233.50.201.138:5140
 http://192.168.1.1:4022/udp/233.50.202.25:5140
 #EXTINF:-1 tvg-id="杭州综合HD" tvg-name="杭州综合HD" tvg-logo="" group-title="浙江",杭州综合HD
 http://192.168.1.1:4022/udp/233.50.201.173:5140
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",杭州明珠HD
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="浙江",杭州明珠HD
 http://192.168.1.1:4022/udp/233.50.201.174:5140
 #EXTINF:-1 tvg-id="杭州生活HD" tvg-name="杭州生活HD" tvg-logo="" group-title="浙江",杭州生活HD
 http://192.168.1.1:4022/udp/233.50.201.175:5140
