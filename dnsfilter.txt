@@ -5,7 +5,7 @@
 #---||chiphell.com^
 #---||zhibo8.cc^
 #---||zhibo8.com^
-#---||hupu.com^
+||hupu.com^
 #---||smzdm.com^
 #---||tieba.baidu.com^
 #---||biadu.com^
