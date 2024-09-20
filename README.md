@@ -38,6 +38,7 @@ _A list of my commonly used Git commands_
 | `git switch [branch name]` | Switch to a branch |
 | `git switch -c [branch name]` | Create a new branch and switch to it |
 | `git checkout -b [branch name] origin/[branch name]` | Clone a remote branch and switch to it |
+| `git checkout -b [branch name] 0d1d7fc32` | Make a new branch for a commit |
 | `git checkout -` | Switch to the branch last checked out |
 | `git checkout -- [file-name.txt]` | Discard changes to a file |
 | `git merge [branch name]` | Merge a branch into the active branch |
