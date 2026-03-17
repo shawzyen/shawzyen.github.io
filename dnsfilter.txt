@@ -6,6 +6,7 @@
 #---||zhibo8.cc^
 #---||zhibo8.com^
 ||hupu.com^
+||scboy.cc^
 #---||smzdm.com^
 #---||tieba.baidu.com^
 #---||biadu.com^
