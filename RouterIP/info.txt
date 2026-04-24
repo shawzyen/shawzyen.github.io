@@ -1,1 +1,4 @@
 https://www.ip2location.com/free/visitor-blocker
+
+https://shawzyen.github.io/RouterIP/chnIP.txt
+https://shawzyen.github.io/RouterIP/SummaryIP.txt
